@@ -37,6 +37,6 @@ For any inquiries or assistance, feel free to reach out to the repository owner.
 
 **Author:** [Fatahillah Rahmani]
 **Contact:** [adjikp76@gmail.com]
-**License:** [Specify the license, e.g., MIT License]
+**License:** [MIT License]
 
 **Disclaimer:** These programming assignments are intended for educational purposes only. The code provided may require modifications or additional optimizations for deployment in production environments.
