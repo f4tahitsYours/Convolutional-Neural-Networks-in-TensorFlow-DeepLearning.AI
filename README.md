@@ -35,7 +35,7 @@ Special thanks to DeepLearning.AI for providing this comprehensive course on Con
 
 For any inquiries or assistance, feel free to reach out to the repository owner.
 
-**Author:** [Fatahillah Rahmani]
+**Author:** [Fatahillah]
 **Contact:** [adjikp76@gmail.com]
 **License:** [MIT License]
 
